@@ -4093,19 +4093,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "columns":32,
-         "firstgid":2250,
-         "image":"..\/Downloads\/ChatGPT Image Jul 25, 2025 at 03_59_21 PM.png",
-         "imageheight":1024,
-         "imagewidth":1024,
-         "margin":0,
-         "name":"hey",
-         "spacing":0,
-         "tilecount":1024,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
