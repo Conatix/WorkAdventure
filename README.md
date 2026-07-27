@@ -8,9 +8,13 @@
 
 2. Click the green **Code** button.
 
+![GitHub Code button](README_images/github_code_button.png)
+
 3. Click **Download ZIP**.
 
 4. The downloaded ZIP file should now appear in **File Explorer**.
+
+![Download ZIP](README_images/download_zip.png)
 
 > **Note:** Make sure you know where the ZIP file was downloaded. You will need to select this file when uploading it to Map Storage.
 
@@ -35,23 +39,31 @@ For example:
 You will be prompted to sign in with a username and password.
 
 > **Username:** `admin`
-> **Password:** `<U5N+E64/v0Ac>`
+> **Password:** `U5N+E64/v0Ac`
+
+![Sign In](README_images/sign-in.png)
 
 ---
 
 ## Step 3: Upload the Map
 
-After signing in, you will be taken to the **WorkAdventure Map Storage UI**.
+After signing in, you will be taken to the **WorkAdventure Map Storage** UI.
+
+![Map Storage UI](README_images/map_storage_ui.png)
 
 1. Click **Choose File**.
 
 2. Select the ZIP file that you downloaded from GitHub.
 
-3. Click **Submit**.
+![Upload Folder](README_images/upload_folder.png)
 
-4. The page should display a message confirming:
+4. Click **Submit**.
+
+5. The page should display a message confirming:
 
    **File Successfully Uploaded**
+
+![File Successfully Uploaded](README_images/file_succesfully_uploaded.png)
 
 ---
 
@@ -62,6 +74,9 @@ To confirm that the map was successfully uploaded, return to:
 `https://DOMAIN-IP/map-storage`
 
 The uploaded map should now appear in the **Maps list**.
+
+
+![Confirm Upload](README_images/confirm_upload.png)
 
 The blue link on the left shows the file path where the map is stored.
 
