@@ -36,12 +36,9 @@ For example:
 
 `https://DOMAIN-IP/map-storage`
 
-You will be prompted to sign in with a username and password.
-
-> **Username:** `admin`
-> **Password:** `U5N+E64/v0Ac`
-
-![Sign In](README_images/sign-in.png)
+1. You will be prompted to sign in with a username and password. 
+2. To get the username and password, look for **MAP_STORAGE_AUTHENTICATION_USER** and **MAP_STORAGE_AUTHENTICATION_PASSWORD** in the .env file in the WorkAdventure folder of the VM's repository. 
+3. Use Ctrl + F to easily search for these variables. 
 
 ---
 
